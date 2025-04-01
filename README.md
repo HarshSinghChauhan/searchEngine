@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a simple search engine that loads data from Parquet files and serves search results through an HTTP API. The backend is implemented in Go, and the frontend is built with React (if required). The main functionality is to load Parquet files into memory and perform full-text search queries across various fields such as `Message`, `Sender`, `Event`, and more.
+This project implements a simple search engine that loads data from Parquet files and serves search results through an HTTP API. The backend is implemented in Go, and the frontend is built with React. The main functionality is to load Parquet files into memory and perform full-text search queries across various fields such as `Message`, `Sender`, `Event`, and more.
 
 ## Features
 
