@@ -59,6 +59,8 @@ Here’s an example of the JSON response when performing a search query:
   "search_time": "1ms"
 }
 ```
+![image](https://github.com/user-attachments/assets/53a39451-fdc2-4838-bb67-48b2b3a87297)
+
 
 ## Project Structure
 
